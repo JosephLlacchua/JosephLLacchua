@@ -6,8 +6,7 @@
   Software Engineering student with strong backend expertise and growing frontend skills. Passionate about building high-performance applications with Java/Spring ecosystem and Angular. Experienced in developing secure, scalable solutions for real-world challenges.
 </div>
 </br>
-<img align='right' src='https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif' width='240'>
-
+<img align='right' src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTg3MXRqbndreW5kZmdoZng0azI3dDFlMDFmZGo0Znd4NzFnNHVpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/txnXmljUiXibLKQxzZ/giphy.gif' width='240'>
 ### 🚀 More About Me:
 
 - 🔭 &nbsp; Working on **enterprise-grade Spring microservices** with JWT auth and cloud deployment
