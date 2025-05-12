@@ -1,77 +1,69 @@
-<br clear="both">
+# Hi, I'm Joseph Llacchua <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="display: inline-block; transform: translateY(4px);">
 
-<h1 align="center">Hi 👋, I'm Joseph Llacchua</h1>
+### 💻 Backend Developer | Cloud Architecture Enthusiast
 
-<h6 align="left">
-  💫 <strong>About Me:</strong><br><br>
-  I am a software engineering student currently in my 6th semester, passionate about backend development with a keen interest in Java, Spring Boot, Spring Security, and JWT.<br><br>
-  🔭 I’m currently working on a project utilizing Spring Boot, Spring Security, and JWT for secure authentication and authorization.<br><br>
-  👯 I’m looking to collaborate on open-source projects, particularly those involving Java and Spring technologies.<br><br>
-  🤝 I’m seeking help to improve my skills in testing frameworks and DevOps practices.<br><br>
-  🌱 I’m learning more about microservices architecture and its integration into my projects.<br><br>
-  💬 Feel free to ask me about my experience with Java, Spring Boot, and related technologies. I’m always happy to share knowledge and learn from others.<br><br>
-  ⚡ <strong>Fun fact:</strong> In my free time, I enjoy hiking and exploring the great outdoors, as it helps me recharge and gain new perspectives.
-</h6>
+<div style="margin-top: 10px; font-size: 16px; color: #58a6ff; background-color: #0d1117; padding: 15px; border-radius: 6px; border-left: 3px solid #58a6ff;">
+  Software Engineering student with strong backend expertise and growing frontend skills. Passionate about building high-performance applications with Java/Spring ecosystem and Angular. Experienced in developing secure, scalable solutions for real-world challenges.
+</div>
+</br>
+<img align='right' src='https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif' width='240'>
+
+### 🚀 More About Me:
+
+- 🔭 &nbsp; Working on **enterprise-grade Spring microservices** with JWT auth and cloud deployment
+- 👨‍💻 &nbsp; Building responsive frontend with **Angular** and reactive state management
+- 🌟 &nbsp; Looking to collaborate on challenging **full-stack projects** with CI/CD workflows
+- 🔒 &nbsp; Specialized in implementing **robust security patterns** for web applications  
+- 🌱 &nbsp; Exploring **AWS cloud architecture**
+- 🛠️ &nbsp; Passionate about creating elegant solutions to complex technical problems
+- ⚡ &nbsp; **Fun fact:** I compose music and play piano to enhance my creative thinking skills
+</br>
+
+### 💪 Technical Skills:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,typescript,javascript,cs,python,react,html,css,nodejs,docker,aws,postgres,mongodb,mysql,gitlab,azure,git&perline=10&theme=dark"/>
+</p>
+
+
+### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JosephLlacchua&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=JosephLlacchua&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JosephLlacchua&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=JosephLlacchua&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" alt="streak graph" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosephLlacchua&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="stats graph" />
 </div>
 
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJrNTR0d210bnJkN21pdmd0ZTJ2cnk3b2VuODQ2cXA0YmxteDdseiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5RxNQCK01NdAc/giphy.gif" />
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JosephLlacchua&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true" alt="languages graph" />
 </div>
 
-###
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=JosephLlacchua&theme=tokyo-night&hide_border=true" 
+     style="width: 100%; margin-top: 4px; border-radius: 8px; display: block;">
 
-<div align="center">
-<a href="mailto:josephllacchua123@gmail.com">
+### 🤝 Connect with Me
 
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
+  <a href="mailto:josephllacchua123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://www.linkedin.com/in/joseph-llacchua">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-<a href="https://josephllacchua.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Open%20Portfolio-%23007BFF?style=for-the-badge&logo=firefox&logoColor=white" height="35" alt="portfolio button" />
+  <a href="https://josephllacchua.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-007BFF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
   </a>
+  <a href="https://twitter.com/JosephLlacchua" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://dev.to/josephllacchua" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to">
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JosephLlacchua&style=flat-square&color=blue" alt="Profile views"/>
+  
+  <p>💖 Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaboration.</p>
 </div>
