@@ -1,4 +1,4 @@
-# Hi, I'm Joseph Llacchua <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="display: inline-block; transform: translateY(4px);">
+# Hi, I'm Joseph Llacchua <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" style="display: inline-block;">
 
 ### 💻 Backend Developer | Cloud Architecture Enthusiast
 
@@ -7,6 +7,7 @@
 </div>
 </br>
 <img align='right' src='https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTg3MXRqbndreW5kZmdoZng0azI3dDFlMDFmZGo0Znd4NzFnNHVpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/txnXmljUiXibLKQxzZ/giphy.gif' width='240'>
+
 ### 🚀 More About Me:
 
 - 🔭 &nbsp; Working on **enterprise-grade Spring microservices** with JWT auth and cloud deployment
